@@ -1,0 +1,208 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.48f1 (b805b124c6b7) revision 12060081'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'en' Physical Memory: 12170 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2020.3.48f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Kuliah Rafid's/Semester 6/Animasi dan Game/BAB 6/Project BAB 6
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52278
+Successfully changed project path to: D:/Kuliah Rafid's/Semester 6/Animasi dan Game/BAB 6/Project BAB 6
+D:/Kuliah Rafid's/Semester 6/Animasi dan Game/BAB 6/Project BAB 6
+Using Asset Import Pipeline V2.
+Player connection [7088] Host "[IP] 192.168.4.215 [Port] 3221443040 [Flags] 2 [Guid] 579229955 [EditorId] 579229955 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-TB0NETF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [7088] Host "[IP] 192.168.4.215 [Port] 3221443040 [Flags] 2 [Guid] 579229955 [EditorId] 579229955 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-TB0NETF) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 65.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.48f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Kuliah Rafid's/Semester 6/Animasi dan Game/BAB 6/Project BAB 6/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   
+    VRAM:     2008 MB
+    Driver:   31.0.15.3118
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2020.3.48f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001316 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.644 seconds
+Domain Reload Profiling:
+	ReloadAssembly (645ms)
+		BeginReloadAssembly (65ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (502ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (170ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (189ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (49ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (95ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.188 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1189ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (969ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (335ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (364ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (48ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (225ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2014 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.2 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2448.
+Total: 3.338900 ms (FindLiveObjects: 0.180300 ms CreateObjectMapping: 0.070200 ms MarkObjects: 2.948700 ms  DeleteObjects: 0.138800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/COUPON.png
+  artifactKey: Guid(158cc2355dae2f642ba7e0dab2707200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/COUPON.png using Guid(158cc2355dae2f642ba7e0dab2707200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92e3ce451f01cec6f88b90fb396d12e') in 0.144227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.148454 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters
+  artifactKey: Guid(e517d229dd4e7b14682c380f8aa66bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters using Guid(e517d229dd4e7b14682c380f8aa66bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4c41f4f500b64bb9982e7f962ebf4e') in 0.007203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019069 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/Appearing.png
+  artifactKey: Guid(f3ac256caa6a6464e905ea4d9505c92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/Appearing.png using Guid(f3ac256caa6a6464e905ea4d9505c92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c119abe7e32f5bbb96f9c7a18fd5a90d') in 0.027493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/Desappearing.png
+  artifactKey: Guid(68717a0b776fbe642bda2736bc4c71ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/Desappearing.png using Guid(68717a0b776fbe642bda2736bc4c71ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b8149a0da332862b97012c40f448cb') in 0.022504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.583861 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Double_Jump.png
+  artifactKey: Guid(5059f0a6621f422499f6b65d6ab97bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Double_Jump.png using Guid(5059f0a6621f422499f6b65d6ab97bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad096f939bf94a491fb3cd9db85ec29') in 0.020518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Wall_Jump.png
+  artifactKey: Guid(964ebd6b4b4e7364cb4338db60160158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Wall_Jump.png using Guid(964ebd6b4b4e7364cb4338db60160158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a36d55b8e42d7d9f02c54e6d51df39') in 0.017840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Jump.png
+  artifactKey: Guid(7046992cb78791b49b6d5673671cedb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Jump.png using Guid(7046992cb78791b49b6d5673671cedb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84fc8058306b9ff52a42474a69d9186') in 0.028075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Fall.png
+  artifactKey: Guid(063e9d4d40c2fbf45b538032fba6c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Fall.png using Guid(063e9d4d40c2fbf45b538032fba6c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253602de8e75e1310a13e59a5f141b1e') in 0.020768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1
+  artifactKey: Guid(37bd25e2d97969046bbfe60f73999cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1 using Guid(37bd25e2d97969046bbfe60f73999cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437e7d98d3e002f4d8ba431498de87df') in 0.007489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Hit.png
+  artifactKey: Guid(c40ce958975932f448a3c963379f56d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Hit.png using Guid(c40ce958975932f448a3c963379f56d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4351a6fb47d09f31f3e03635f44310f2') in 0.016810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Run.png
+  artifactKey: Guid(2ebacbc47469dc5488aa193e078ceb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Run.png using Guid(2ebacbc47469dc5488aa193e078ceb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2845638849ccfdf1676205ff7b05ec0b') in 0.023606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Idle.png
+  artifactKey: Guid(6e9a27b82ec9b4d46b8ec62a86c2a3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/craftpix-net-396765-free-simple-platformer-game-kit-pixel-art/1 Main Characters/1/Idle.png using Guid(6e9a27b82ec9b4d46b8ec62a86c2a3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd783c8b2e96f78692c0388ffef1508be') in 0.021656 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
